@@ -12,6 +12,8 @@
         <activity
             android:name=".CovidScreening"
             android:exported="false" />
+        <activity android:name=".SelectNextActivity"
+            android:exported="false"/>
         <activity
             android:name=".ForgotPassword"
             android:exported="false" />

@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">KWS Visitor Registration System</string>
+    <string name="covid_screening">Covid Screening</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="back">BACK</string>
+    <string name="submit">SUBMIT</string>
+    <string name="i_have_an_account">I HAVE AN ACCOUNT</string>
+    <string name="email">EMAIL</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_on">LOG IN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_work_id">Enter Work ID</string>
+    <string name="log_in">LOG IN</string>
+
 </resources>
